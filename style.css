@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Great+Vibes&family=Marck+Script&display=swap');
+
+body, * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('https://furman.top/uploads/posts/2022-09/1662261840_41-furman-top-p-pozheltevshaya-bumaga-fon-krasivo-45.jpg');
+    background-repeat: no-repeat;
+}
+
+.content {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 42px;
+    font-family: 'Great Vibes';
+}
+
+p {
+    font-size: 26px;
+    line-height: 1;
+    font-family: 'Caveat';
+}
+
+span {
+    color: red;
+    font-weight: 900;
+}
+
+img {
+    display: block;
+    margin: 15px auto;
+}
