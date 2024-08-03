@@ -6,6 +6,11 @@ body, * {
     box-sizing: border-box;
 }
 
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
 body {
     background-image: url('https://furman.top/uploads/posts/2022-09/1662261840_41-furman-top-p-pozheltevshaya-bumaga-fon-krasivo-45.jpg');
     background-repeat: no-repeat;
@@ -14,6 +19,7 @@ body {
 .content {
     width: fit-content;
     margin: 0 auto;
+    padding: 10px;
 }
 
 h1 {
