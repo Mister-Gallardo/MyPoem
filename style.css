@@ -22,6 +22,14 @@ body {
     padding: 6px 10px;
 }
 
+.img {
+    margin: 15px 0px;
+    gap: 10px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
 h1 {
     font-size: 42px;
     font-family: 'Great Vibes';
@@ -36,9 +44,4 @@ p {
 span {
     color: red;
     font-weight: 900;
-}
-
-img {
-    display: block;
-    margin: 15px auto;
 }
